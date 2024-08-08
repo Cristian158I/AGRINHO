@@ -1,7 +1,7 @@
 body{
-    background-color: green;
+   background-color: rgb(87, 102, 81);
 }
-header{background-color: brown;
+header{background-color: rgb(173, 69, 8);
 }
 
 h1{color: aqua;
@@ -13,11 +13,15 @@ h1{color: aqua;
 
 }
 
-
-
 p{color: aliceblue;
 font-size: 30px;
 text-align: center;
-
-
 }
+
+
+
+.imagem1{height: 35%;
+width: 35%;}
+
+.imagem2{height: 30%;
+width: 30%;}
